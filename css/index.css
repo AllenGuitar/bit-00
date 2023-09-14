@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Great+Vibes&family=Red+Hat+Display&display=swap');
+
+*,
+*::before,
+*::after{
+    /* para que los bordes no se desfacen */
+    box-sizing: border-box;
+}
+
+:root{
+    font-titles:'Great Vibes', cursive;
+    font-content:'Barriecito', cursive;
+}
+
+img{
+    
+    width: 10vh;
+    height: 10vw;
+}
